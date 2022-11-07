@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <RevitAddIns>
-  <AddIn Type="Command">
-    <Text>Command RAB_Sission01_Challenge - FizzBuzz</Text>
-    <Description>Some description for RAB_Sission01_Challenge - FizzBuzz</Description>
-    <Assembly>RAB_Sission01_Challenge - FizzBuzz.dll</Assembly>
-    <FullClassName>RAB_Sission01_Challenge___FizzBuzz.Command</FullClassName>
-    <ClientId>91b307f7-e901-4d62-9c9c-fe7df98e6236</ClientId>
-    <VendorId>com.typepad.thebuildingcoder</VendorId>
-    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
-  </AddIn>
+	<AddIn Type="Command">
+		<Text>RAB FizzBuzz Command</Text>
+		<Description>Some description for RAB_Sission01_Challenge - FizzBuzz</Description>
+		<Assembly>RAB_Sission01_Challenge - FizzBuzz.dll</Assembly>
+		<FullClassName>RAB_Sission01_Challenge___FizzBuzz.Command01Challenge</FullClassName>
+		<ClientId>50FA5897-5688-44C9-B131-EE2C77CBB4D1</ClientId>
+		<VendorId>com.typepad.thebuildingcoder</VendorId>
+		<VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+	</AddIn>
   <AddIn Type="Application">
     <Name>Application RAB_Sission01_Challenge - FizzBuzz</Name>
     <Assembly>RAB_Sission01_Challenge - FizzBuzz.dll</Assembly>
